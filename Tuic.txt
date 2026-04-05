@@ -1,2 +1,1 @@
-tuic://a9bc8cf2-329b-4dd8-8c95-42821cd86d06:a9bc8cf2-329b-4dd8-8c95-42821cd86d06@3.a521.eu.org:46635?sni=3.a521.eu.org&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US   TUIC-TCP-NTLS - MOEDOVE-N2  216.238.53.30
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&%3Budp_relay_mode=native&%3Balpn=h3%2Cspdy/3.1&%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231
