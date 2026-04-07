@@ -725,6 +725,7 @@ trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:27094?type=tcp&
 trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:47651?security=tls&sni=$hnm.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-76.223.54.146-1191
 trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:47651?security=tls&sni=
 trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443/?type=tcp&security=tls&sni=
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@mfa.gov.ua:2096?allowInsecure=1&%3Bhost=cm22-bgphhh.pages.dev&%3Bpath=/&%3Bsni=cm22-bgphhh.pages.dev&%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40v2ray_vmes%20%231
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443/?type=tcp&security=tls
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
 trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&%3Btype=ws&%3BheaderType=none&%3Bpath=%252Fhowdy&%3Bsni=de1.test3.net&%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
@@ -994,6 +995,7 @@ trojan://3c4e10af98c30972@185.230.245.210:3306?security=tls&sni=
 trojan://3c4e10af98c30972@185.230.245.211:3306?security=tls&sni=
 trojan://3c4e10af98c30972@185.230.245.213:3306?security=tls&sni=
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#United%20State%20Nato
+trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#Join+Telegram:@Farah_VPN
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=
 trojan://3c4e10af98c30972@60.248.114.184:3306?security=tls&sni=
@@ -1052,7 +1054,6 @@ trojan://430b6895-2e0f-4716-9410-e1339d0f9af6@uk01.clashzone.xyz:54122?security=
 trojan://432f85e0-4684-11f0-b5ac-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://4467ae8518abf1ef321618c0bfb5549ccc@188.240.213.45:20071/?type=tcp&security=tls&sni=
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan%20NTT%20Pc
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join+Telegram:@Farah_VPN
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=
 trojan://4542de1e-a966-4a31-9630-3afbe560f516@idt3.sshocean.net:443?sni=www.digitalocean.com#t.me%2Fkutoproxy%F0%9F%87%AE%F0%9F%87%A9trojan://0e0d29a3-6033-4041-b076-cf5ae0fe35b9@ltt1.sshocean.net:443?sni=www.digitalocean.com#t.me%2Fkutoproxy%F0%9F%87%B1%F0%9F%87%B9trojan://788ab87c-224d-4e85-8575-470567934d47@idt1.sshocean.net:443?sni=www.digitalocean.com#t.me%2Fkutoproxy%F0%9F%87%AE%F0%9F%87%A9------------------------------------------TG
@@ -1075,6 +1076,7 @@ trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443/?type=ws&host=banglad
 trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443/?type=tcp&security=tls&sni=
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-4546
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#AU
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443/?type=tcp&security=tls
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?type=tcp&security=tls&allowInsecure=1
 trojan://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443/?type=ws&host=pardazeshvpn-tg104.pages.dev&path=
@@ -1243,5 +1245,3 @@ trojan://52a98419-efab-4c34-b4cc-4e2a7bc37029@hnyd.52147.top:30130?allowInsecure
 trojan://52f6c7c1-85ef-4fcb-900d-35a4f8adb537@13.114.50.226:22002?security=tls&type=tcp&sni=
 trojan://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443/?type=tcp&security=tls&sni=
 trojan://53249200-30ff-436f-a032-0bb00605f8f9@172.67.219.196:443/?type=tcp&security=tls&sni=
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls
